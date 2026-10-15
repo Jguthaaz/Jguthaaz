@@ -1,4 +1,11 @@
-# Business Strategy · Innovation · AI Transformation
+# Jorge Gutierrez Haaz
+
+## Explore my projects
+[**Project Overview — browse the portfolio**](https://github.com/Jguthaaz/ai-executive-playbooks/blob/main/PORTFOLIO-GUIDE.md)
+
+Business strategy, growth, AI, analytics and transformation: project summaries, relevance and current status.
+
+## Business Strategy · Innovation · AI Transformation
 
 I connect business strategy and growth with innovation, artificial intelligence, analytics and decision science.
 
@@ -9,7 +16,7 @@ My focus is helping leaders clarify business challenges, identify opportunities,
 ## Start here
 [AI Executive Playbooks](https://github.com/Jguthaaz/ai-executive-playbooks) — practical templates for opportunity discovery, executive alignment and pilot design.
 
-**Portfolio status:** work in progress. The initial collection contains draft frameworks and a fictional worked example. It does not claim deployed solutions, validated outcomes or client endorsements.
+**Portfolio status:** work in progress. The collection contains hypothetical exercises, draft frameworks and a prototype using synthetic data. It does not claim deployed solutions, validated outcomes or client endorsements.
 
 This headline describes my professional positioning; it is not an official job title. Historical repositories are separate from this curated collection and should be assessed individually for origin, attribution and maturity.
 
