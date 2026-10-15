@@ -1,24 +1,35 @@
 # Jorge Gutierrez Haaz
+### Business Strategy · Growth · Innovation · AI & Analytics
 
-## Explore my projects
-[**Project Overview — browse the portfolio**](https://github.com/Jguthaaz/ai-executive-playbooks/blob/main/PORTFOLIO-GUIDE.md)
-
-Business strategy, growth, AI, analytics and transformation: project summaries, relevance and current status.
-
-## Business Strategy · Innovation · AI Transformation
-
-I connect business strategy and growth with innovation, artificial intelligence, analytics and decision science.
+I help leaders clarify business challenges, identify opportunities, align perspectives and turn strategic decisions into action.
 
 My background spans more than 25 years across consulting and enterprise transformation, with experience at KPMG, IBM, Cognitiva, CitiBanamex and Teradata, and a foundation in physical engineering.
 
-My focus is helping leaders clarify business challenges, identify opportunities, align perspectives and translate strategic decisions into action.
+[LinkedIn](https://www.linkedin.com/in/jguthaaz/) · [Personal website](https://gutierrezhaaz.com)
 
-## Start here
-[AI Executive Playbooks](https://github.com/Jguthaaz/ai-executive-playbooks) — practical templates for opportunity discovery, executive alignment and pilot design.
+## Strategy, growth and transformation
 
-**Portfolio status:** work in progress. The collection contains hypothetical exercises, draft frameworks and a prototype using synthetic data. It does not claim deployed solutions, validated outcomes or client endorsements.
+**[Growth Opportunity Explorer](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/growth-opportunity-explorer)**  
+A hypothetical exploration of customer segments, value propositions and commercial opportunities, with a plan to test assumptions before committing resources.
 
-This headline describes my professional positioning; it is not an official job title. Historical repositories are separate from this curated collection and should be assessed individually for origin, attribution and maturity.
+**[Decision Intelligence Lab](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/decision-intelligence-lab)**  
+A hypothetical AI investment decision comparing alternatives, strategic priorities, weighted criteria and uncertainty through sensitivity analysis.
 
-## En español
-Conecto estrategia de negocio y crecimiento con innovación, IA, analítica y transformación. Este portafolio evoluciona gradualmente con herramientas para estructurar oportunidades y decisiones. Los materiales iniciales son borradores; el ejemplo es ficticio.
+**[Business Transformation Blueprint](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/business-transformation-blueprint)**  
+A hypothetical transformation plan connecting strategic intent with process redesign, capabilities, governance, adoption and staged execution.
+
+**[Executive Co-Creation Toolkit](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/executive-co-creation-toolkit)**  
+A proposed 90-minute workshop for framing business problems, aligning perspectives and defining an accountable next decision.
+
+## Analytics in practice
+
+**[Customer Growth Analytics](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/customer-growth-analytics)**  
+An executed analysis of real public retail transactions, combining customer segmentation, repeat-purchase patterns and commercial interpretation. Includes a reproducible notebook and instructions for running it in Kaggle.
+
+[**Explore all projects**](https://github.com/Jguthaaz/ai-executive-playbooks/blob/main/PORTFOLIO-GUIDE.md)
+
+## Current exploration
+
+How can organizations identify valuable opportunities, make better decisions and translate AI and analytics into practical business change?
+
+This collection is a work in progress and includes analytical work, hypothetical exercises and experimental prototypes. Each project documents its sources, assumptions, maturity and limitations. Materials were prepared with AI assistance. No client delivery or measured business impact is claimed through these exercises.
