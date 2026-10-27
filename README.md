@@ -55,9 +55,11 @@ These projects complement the analytical work and strategic exercises above. **�
 
 - **[Executive Decision Lab](https://github.com/Jguthaaz/executive-decision-lab) 🔒** — Explore which AI initiative to validate first and how that priority changes when decision criteria change.
 - **[Executive Knowledge Copilot — RAG chat](https://github.com/Jguthaaz/executive-knowledge-copilot) 🔒** — Prototype for asking questions about documents and checking the evidence behind each answer.
-- **[Executive Co-Creation Toolkit — interactive app](https://github.com/Jguthaaz/executive-co-creation-toolkit) 🔒** — Support a structured conversation about opportunities, priorities, ownership and next steps.
-- **[AI Pilot Canvas](https://github.com/Jguthaaz/ai-pilot-canvas) 🔒** — Turn an initial idea into a pilot brief with a hypothesis, scope, measures and criteria for continuing or stopping.
+- **[Executive Co-Creation Toolkit — interactive app](https://github.com/Jguthaaz/executive-co-creation-toolkit) 🔒** — Support a structured conversation about opportunities, priorities, ownership and next steps. **[▶ Open demo on Hugging Face](https://huggingface.co/spaces/jguthaaz/executive-co-creation-toolkit)**
+- **[AI Pilot Canvas](https://github.com/Jguthaaz/ai-pilot-canvas) 🔒** — Turn an initial idea into a pilot brief with a hypothesis, scope, measures and criteria for continuing or stopping. **[▶ Open demo on Hugging Face](https://huggingface.co/spaces/jguthaaz/ai-pilot-canvas)**
 - **[AI Opportunity Simulator](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/simulator)** — Explore illustrative business scenarios and see how impact, effort and assumptions affect the comparison of opportunities.
+
+The linked Hugging Face demos let visitors explore the tools separately from their private source repositories. They are experimental demonstrations with illustrative examples, not evidence of client delivery or measured business impact. Use public or synthetic information when trying them. Toolkit supports opportunity prioritization and hypothesis preparation; AI Pilot Canvas structures a pilot design without an integrated AI model.
 
 ### Technical approach and validation status
 
