@@ -54,19 +54,21 @@ These projects complement the analytical work and strategic exercises above. **�
 ### Projects at a glance
 
 - **[Executive Decision Lab](https://github.com/Jguthaaz/executive-decision-lab) 🔒** — Explore which AI initiative to validate first and how that priority changes when decision criteria change.
-- **[Executive Knowledge Copilot — RAG chat](https://github.com/Jguthaaz/executive-knowledge-copilot) 🔒** — Prototype for asking questions about documents and checking the evidence behind each answer.
+- **[Executive Knowledge Copilot — RAG chat](https://github.com/Jguthaaz/executive-knowledge-copilot) 🔒** — Prototype for asking questions about documents and checking the evidence behind each answer. **[▶ Open demo on Streamlit · 🔒 Private access](https://jguthaaz-knowledge-copilot.streamlit.app/)** Deployed on Streamlit Community Cloud; document retrieval verified, while Gemini generation validation remains pending after HTTP 503 errors.
 - **[Executive Co-Creation Toolkit — interactive app](https://github.com/Jguthaaz/executive-co-creation-toolkit) 🔒** — Support a structured conversation about opportunities, priorities, ownership and next steps. **[▶ Open demo on Hugging Face](https://huggingface.co/spaces/jguthaaz/executive-co-creation-toolkit)**
 - **[AI Pilot Canvas](https://github.com/Jguthaaz/ai-pilot-canvas) 🔒** — Turn an initial idea into a pilot brief with a hypothesis, scope, measures and criteria for continuing or stopping. **[▶ Open demo on Hugging Face](https://huggingface.co/spaces/jguthaaz/ai-pilot-canvas)**
 - **[AI Opportunity Simulator](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/simulator)** — Explore illustrative business scenarios and see how impact, effort and assumptions affect the comparison of opportunities.
 
 The linked Hugging Face demos let visitors explore the tools separately from their private source repositories. They are experimental demonstrations with illustrative examples, not evidence of client delivery or measured business impact. Use public or synthetic information when trying them. Toolkit supports opportunity prioritization and hypothesis preparation; AI Pilot Canvas structures a pilot design without an integrated AI model.
 
+The Copilot demo requires an authorized Streamlit account. Its source repository and deployed app have separate access controls; this link does not grant access or make either public.
+
 ### Technical approach and validation status
 
 | Project | Purpose and approach | Current maturity | Access |
 | --- | --- | --- | --- |
 | [Executive Decision Lab](https://github.com/Jguthaaz/executive-decision-lab) | Python and Streamlit prototype for multicriteria prioritization, scenarios, sensitivity analysis and CSV exports | Local demonstration executed; fictional initiatives and illustrative ratings | 🔒 Private |
-| [Executive Knowledge Copilot — RAG chat](https://github.com/Jguthaaz/executive-knowledge-copilot) | Document retrieval with Streamlit, Docling, local multilingual embeddings, Chroma and Gemini; source citations and evidence checks | Local retrieval and validator tests completed with a fictional corpus; Gemini generation validation pending after HTTP 503 errors | 🔒 Private |
+| [Executive Knowledge Copilot — RAG chat](https://github.com/Jguthaaz/executive-knowledge-copilot) | Document retrieval with Streamlit, Docling, local multilingual embeddings, Chroma and Gemini; source citations and evidence checks | Deployed privately on Streamlit Community Cloud; cloud retrieval and local validator tests verified with a fictional corpus; Gemini generation, generated citations and abstention validation pending after HTTP 503 errors | 🔒 Private |
 | [Executive Co-Creation Toolkit — interactive app](https://github.com/Jguthaaz/executive-co-creation-toolkit) | Editable opportunity comparison, adjustable weights, ranking and CSV export | Browser-based prototype with illustrative examples; separate from the workshop exercise above | 🔒 Private |
 | [AI Pilot Canvas](https://github.com/Jguthaaz/ai-pilot-canvas) | Structure a pilot's problem, hypothesis, alternatives, measures, controls and next decision | Personal prototype using a synthetic example; no AI model integrated | 🔒 Private |
 | [AI Opportunity Simulator](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/simulator) | Reproducible Python scenarios and an interactive local viewer for impact, effort and assumptions | Working personal prototype; synthetic data; no measured business outcomes | Public |
