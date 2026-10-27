@@ -7,6 +7,23 @@ My background spans more than 25 years across consulting and enterprise transfor
 
 [LinkedIn](https://www.linkedin.com/in/jguthaaz/) · [Personal website](https://gutierrezhaaz.com)
 
+## Methodology: Double Diamond with AI support
+
+The portfolio now includes a documented **Double Diamond (Doble Diamante)** guide for connecting business needs, alternatives, prototypes and evidence-based decisions:
+
+| Stage | Executive question | Working evidence |
+| --- | --- | --- |
+| Discover | Whose problem are we trying to understand? | Interview guides, observations and the current workflow |
+| Define | Which challenge deserves attention? | Problem statement, assumptions and success criteria |
+| Develop | Which alternatives should we explore and prioritize? | Options with and without AI, comparison criteria and prototypes |
+| Deliver and learn | What works, what should change, and what is the next decision? | Experiments, results, limitations and lessons |
+
+Adapted from the [Design Council's Double Diamond](https://www.designcouncil.org.uk/resources/the-double-diamond/history-of-the-double-diamond/), with Design Thinking techniques and AI support for research preparation, synthesis, ideation and test design. Human review remains responsible for evidence, priorities and decisions.
+
+**🔒 [Methodology guide](https://github.com/Jguthaaz/executive-knowledge-copilot/tree/main/docs/metodologia)** · **🔒 [Eight AI-assisted working prompts](https://github.com/Jguthaaz/executive-knowledge-copilot/blob/main/docs/metodologia/05-apoyo-ia-y-prompts.md)**
+
+The guide distinguishes completed technical work from proposed interviews, user research and business validation. It does not claim that every portfolio project followed a complete Double Diamond process.
+
 ## Strategy, growth and transformation
 
 **[Growth Opportunity Explorer](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/growth-opportunity-explorer)**  
@@ -26,7 +43,21 @@ A proposed 90-minute workshop for framing business problems, aligning perspectiv
 **[Customer Growth Analytics](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/customer-growth-analytics)**  
 An executed analysis of real public retail transactions, combining customer segmentation, repeat-purchase patterns and commercial interpretation. Includes a reproducible notebook and instructions for running it in Kaggle.
 
+**Python data analysis:** [executed notebook](https://github.com/Jguthaaz/ai-executive-playbooks/blob/main/customer-growth-analytics/customer-growth-analytics.ipynb) · [executive findings](https://github.com/Jguthaaz/ai-executive-playbooks/blob/main/customer-growth-analytics/FINDINGS.md) · [reproduction and Kaggle instructions](https://github.com/Jguthaaz/ai-executive-playbooks/blob/main/customer-growth-analytics/KAGGLE.md). Public repository; local execution is documented, while Kaggle execution remains unverified.
+
 [**Explore all projects**](https://github.com/Jguthaaz/ai-executive-playbooks/blob/main/PORTFOLIO-GUIDE.md)
+
+## Interactive prototypes and applied AI
+
+These projects complement the analytical work and strategic exercises above. **🔒 Private** identifies repositories that require authorized GitHub access; listing them here does not make their contents public.
+
+| Project | Purpose and approach | Current maturity | Access |
+| --- | --- | --- | --- |
+| [Executive Decision Lab](https://github.com/Jguthaaz/executive-decision-lab) | Python and Streamlit prototype for multicriteria prioritization, scenarios, sensitivity analysis and CSV exports | Local demonstration executed; fictional initiatives and illustrative ratings | 🔒 Private |
+| [Executive Knowledge Copilot — RAG chat](https://github.com/Jguthaaz/executive-knowledge-copilot) | Document retrieval with Streamlit, Docling, local multilingual embeddings, Chroma and Gemini; source citations and evidence checks | Local retrieval and validator tests completed with a fictional corpus; Gemini generation validation pending after HTTP 503 errors | 🔒 Private |
+| [Executive Co-Creation Toolkit — interactive app](https://github.com/Jguthaaz/executive-co-creation-toolkit) | Editable opportunity comparison, adjustable weights, ranking and CSV export | Browser-based prototype with illustrative examples; separate from the workshop exercise above | 🔒 Private |
+| [AI Pilot Canvas](https://github.com/Jguthaaz/ai-pilot-canvas) | Structure a pilot's problem, hypothesis, alternatives, measures, controls and next decision | Personal prototype using a synthetic example; no AI model integrated | 🔒 Private |
+| [AI Opportunity Simulator](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/simulator) | Reproducible Python scenarios and an interactive local viewer for impact, effort and assumptions | Working personal prototype; synthetic data; no measured business outcomes | Public |
 
 ## Current exploration
 
