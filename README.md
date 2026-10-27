@@ -51,6 +51,16 @@ An executed analysis of real public retail transactions, combining customer segm
 
 These projects complement the analytical work and strategic exercises above. **🔒 Private** identifies repositories that require authorized GitHub access; listing them here does not make their contents public.
 
+### Projects at a glance
+
+- **[Executive Decision Lab](https://github.com/Jguthaaz/executive-decision-lab) 🔒** — Explore which AI initiative to validate first and how that priority changes when decision criteria change.
+- **[Executive Knowledge Copilot — RAG chat](https://github.com/Jguthaaz/executive-knowledge-copilot) 🔒** — Prototype for asking questions about documents and checking the evidence behind each answer.
+- **[Executive Co-Creation Toolkit — interactive app](https://github.com/Jguthaaz/executive-co-creation-toolkit) 🔒** — Support a structured conversation about opportunities, priorities, ownership and next steps.
+- **[AI Pilot Canvas](https://github.com/Jguthaaz/ai-pilot-canvas) 🔒** — Turn an initial idea into a pilot brief with a hypothesis, scope, measures and criteria for continuing or stopping.
+- **[AI Opportunity Simulator](https://github.com/Jguthaaz/ai-executive-playbooks/tree/main/simulator)** — Explore illustrative business scenarios and see how impact, effort and assumptions affect the comparison of opportunities.
+
+### Technical approach and validation status
+
 | Project | Purpose and approach | Current maturity | Access |
 | --- | --- | --- | --- |
 | [Executive Decision Lab](https://github.com/Jguthaaz/executive-decision-lab) | Python and Streamlit prototype for multicriteria prioritization, scenarios, sensitivity analysis and CSV exports | Local demonstration executed; fictional initiatives and illustrative ratings | 🔒 Private |
